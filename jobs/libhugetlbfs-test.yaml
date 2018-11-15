@@ -8,5 +8,5 @@ libhugetlbfs-test:
   pagenum:
   # Tests need at least 32 hugepages to run.
   # So set the pagenum as minimum and twice of it.
-  - 32
+  #- 32
   - 64
